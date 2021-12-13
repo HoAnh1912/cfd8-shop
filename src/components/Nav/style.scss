@@ -20,7 +20,7 @@
         }
         font-weight: 500;
         transition: $t $cubic;
-@include text(15px,$p,23px,$black-cl,none);
+            @include text(15px,$p,23px,$black-cl,none);
     }
     svg{
         width:8px;
